@@ -4,6 +4,7 @@ def first_challenge
                   montague:{
                             patriarch
                             matriarch
+                            hero
                             },
                   capulet:{}
                   
